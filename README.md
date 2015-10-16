@@ -2,6 +2,7 @@
 ##Fresco的应用：
 
 ###1、占位图
+![placeholderImage](https://github.com/scp504677840/Fresco/blob/master/demonstration%20figure/placeholderImage.png)
 
 ###2、进度图
 ![progressBarImage](https://github.com/scp504677840/Fresco/blob/master/demonstration%20figure/progressBarImage.gif)
