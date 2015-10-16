@@ -36,6 +36,8 @@ Fresco中文说明对这一点也有详情的说明： http://www.fresco-cn.org/
 
 ###11、背景图
 
+![backgroundImage](https://github.com/scp504677840/Fresco/blob/master/demonstration%20figure/backgroundImage.gif)
+
 ###12、XML属性详细说明
 
 ![xml](https://github.com/scp504677840/Fresco/blob/master/demonstration%20figure/xml.png)
