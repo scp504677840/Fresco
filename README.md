@@ -1,4 +1,4 @@
-# Fresco
+# Fresco博客教程地址：http://blog.csdn.net/y1scp/article/details/49245535
 ##Fresco的应用：
 
 ###1、占位图
